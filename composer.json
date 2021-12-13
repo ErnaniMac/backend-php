@@ -10,7 +10,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Moovin\\Job\\Backend\\": "src/",
+            "Source\\": "source/",
+            "Moovin\\Job\\Backend\\": "source/",
             "Moovin\\Job\\Backend\\Tests\\": "tests/"
         }
     }
